@@ -33,7 +33,7 @@ jobs:
     - name: Python Setup 
       uses: actions/setup-python@v3
       with:
-        python-version: ${{ env.PYTHON_VERSION }}
+        python-version: '3.9'
     
     - id: poetry 
       name: Poetry Installation
