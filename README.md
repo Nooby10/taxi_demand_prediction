@@ -1,1 +1,0 @@
-This is an end-2-end hourly taxi demand prediction service
